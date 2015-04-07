@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/NonCachingLoadExample.cs">
+    <Files>
+      <File FileName="Assets/scripts/CachingLoadExample.cs" Line="34" Column="2" />
+      <File FileName="Assets/scripts/NonCachingLoadExample.cs" Line="18" Column="1" />
+      <File FileName="Assets/editor/CreateAssetBundles.cs" Line="8" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pcorazao/Documents/Unity/AssetBundlesRound2/Assets/scripts/NonCachingLoadExample.cs" line="13" />
+      <Breakpoint file="/Users/pcorazao/Documents/Unity/AssetBundlesRound2/Assets/scripts/NonCachingLoadExample.cs" line="16" />
+      <Breakpoint file="/Users/pcorazao/Documents/Unity/AssetBundlesRound2/Assets/scripts/NonCachingLoadExample.cs" line="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

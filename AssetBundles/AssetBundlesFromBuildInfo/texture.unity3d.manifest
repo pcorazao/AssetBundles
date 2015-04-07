@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1499079321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52d012a86c24c1f7851b2b3755b0ecef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/images/UnityLogo.png
+Dependencies: []
